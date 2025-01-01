@@ -6,7 +6,7 @@ description = "Algorithm circuit library for a decentralized virtual machine"
 homepage = "https://aleo.org"
 repository = "https://github.com/AleoNet/snarkVM"
 license = "Apache-2.0"
-edition = "2021"
+edition = "2025"
 
 [dependencies.console]
 package = "snarkvm-console-algorithms"
